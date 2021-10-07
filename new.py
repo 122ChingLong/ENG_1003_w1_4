@@ -5,6 +5,12 @@ def function2():
     c = int(input("Third number pls:"))
     d=a+b+c
     print("The sum of", a,",", b, "and", c, "is", d)
+def Function3():
+    a = int(input('list length:'))
+    b = 0
+    for _ in range(1,a+1):
+        b + = 1
+    print(str(b))
 def Function 4:
     a = int(input("number 1"))
     b = int(input("number 2"))
