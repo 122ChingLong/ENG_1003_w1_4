@@ -5,7 +5,7 @@ def function2():
     c = int(input("Third number pls:"))
     d=a+b+c
     print("The sum of", a,",", b, "and", c, "is", d)
-def function4():
+def Function 4:
     a = int(input("number 1"))
     b = int(input("number 2"))
     if a == b :
