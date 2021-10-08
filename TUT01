@@ -20,8 +20,8 @@ elif start=="3":
         b += 1
     print(str(b))
 elif start =="4":
-    a = int(input("number 1"))
-    b = int(input("number 2"))
+    a = int(input("a"))
+    b = int(input("b"))
     if a == b :
         print("a is equal to b")
     elif a > b : 
