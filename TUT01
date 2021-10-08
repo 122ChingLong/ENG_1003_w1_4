@@ -28,3 +28,20 @@ elif start =="4":
         print("a is larger than b")
     elif a < b :
         print("a is smaller than b")
+
+elif start =="5":
+    import random
+    n=random.randint(1,100)
+    guess = int(input("Enter an integer from 1 to 100: "))
+    while n != "guess":
+        print
+        if guess < n:
+            print ("guess is too low")
+            guess = int(input("Enter an integer from 1 to 100: "))
+        elif guess > n:
+            print ("guess is too high")
+            guess = int(input("Enter an integer from 1 to 100: "))
+        else:
+            print ("You are corrected!!!")
+            break
+        print
