@@ -46,8 +46,11 @@ used in aviation, robotics and computer games.
 
 • Private pilots do the path plan before the flight to make sure the 
 navigation aid is available
-<img width="480" alt="截屏2021-11-05 12 22 50" src="https://user-images.githubusercontent.com/90884944/140458833-620348e8-b273-47a6-ac93-aa6825350b6b.png">
-<img width="343" alt="截屏2021-11-05 12 42 08" src="https://user-images.githubusercontent.com/90884944/140459270-ddeed384-ae1d-476c-b1ab-77729b319bd1.png">
+<img width="790" alt="截屏2021-11-05 12 49 14" src="https://user-images.githubusercontent.com/90884944/140459860-e3de43a0-7a0f-45fd-8a4f-59c5af521601.png">
+• For ATC near airports, collaborative path planning is required to make 
+the best use of the crowded airspace
+<img width="724" alt="截屏2021-11-05 12 58 35" src="https://user-images.githubusercontent.com/90884944/140460592-c1d3e592-5816-4561-a492-47d51f44c96e.png">
+
 
 
 
@@ -56,7 +59,8 @@ navigation aid is available
 
 <!-- Theory of Path Planning Algorithm -->
 ## 02|Theory of Path Planning Algorithm
-
+ 
+ 
 
 <!-- Programming Tools -->
 ## 03|Programming Tools
