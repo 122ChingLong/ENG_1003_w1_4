@@ -1,3 +1,5 @@
+"""
+
 A* grid planning
 
 author: Atsushi Sakai(@Atsushi_twi)
@@ -45,16 +47,16 @@ class AStarPlanner:
         self.tc_y = tc_y
 
         ############you could modify the setup here for different aircraft models (based on the lecture slide) ##########################
-        self.C_F = 10
+        self.C_F = 20
         self.Delta_F = 5
-        self.C_T = 40
+        self.C_T = 20
         self.Delta_T = 5
         self.C_C = 10
-
+        
         self.Delta_F_A = 5 # additional fuel
         self.Delta_T_A = 5 # additional time 
-
-
+        
+        
 
         self.costPerGrid = self.C_F * self.Delta_F + self.C_T * self.Delta_T + self.C_C
 
@@ -139,20 +141,20 @@ class AStarPlanner:
                 node = self.Node(current.x + self.motion[i][0],
                                  current.y + self.motion[i][1],
                                  current.cost + self.motion[i][2] * self.costPerGrid, c_id)
-
+                
                 ## add more cost in time-consuming area
                 if self.calc_grid_position(node.x, self.min_x) in self.tc_x:
                     if self.calc_grid_position(node.y, self.min_y) in self.tc_y:
                         # print("time consuming area!!")
                         node.cost = node.cost + self.Delta_T_A * self.motion[i][2]
-
+                
                 # add more cost in fuel-consuming area
                 if self.calc_grid_position(node.x, self.min_x) in self.fc_x:
                     if self.calc_grid_position(node.y, self.min_y) in self.fc_y:
                         # print("fuel consuming area!!")
                         node.cost = node.cost + self.Delta_F_A * self.motion[i][2]
                     # print()
-
+                
                 n_id = self.calc_grid_index(node)
 
                 # If the node is not safe, do nothing
@@ -194,7 +196,7 @@ class AStarPlanner:
         d = w * math.hypot(n1.x - n2.x, n1.y - n2.y)
         d = d * self.costPerGrid
         return d
-
+    
     def calc_heuristic_maldis(n1, n2):
         w = 1.0  # weight of heuristic
         dx = w * math.abs(n1.x - n2.x)
@@ -336,19 +338,19 @@ def main():
     for i in range(-10, 20):
         ox.append(i)
         oy.append(-1 * i+20)
-
+    
     # for i in range(40, 45): # draw the button border 
     #     ox.append(i)
     #     oy.append(30.0)
 
-
+    
     # set fuel consuming area
     fc_x, fc_y = [], []
     for i in range(20, 30):
         for j in range(0, 25):
             fc_x.append(i)
             fc_y.append(j)
-
+    
     # set time consuming area
     tc_x, tc_y = [], []
     for i in range(10, 30):
@@ -360,7 +362,7 @@ def main():
         plt.plot(ox, oy, ".k") # plot the obstacle
         plt.plot(sx, sy, "og") # plot the start position 
         plt.plot(gx, gy, "xb") # plot the end position
-
+        
         plt.plot(fc_x, fc_y, "oy") # plot the fuel consuming area
         plt.plot(tc_x, tc_y, "or") # plot the time consuming area
 
