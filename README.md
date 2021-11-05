@@ -46,7 +46,11 @@ used in aviation, robotics and computer games.
 
 • Private pilots do the path plan before the flight to make sure the 
 navigation aid is available
-![This is an image]
+<img width="480" alt="截屏2021-11-05 12 22 50" src="https://user-images.githubusercontent.com/90884944/140458833-620348e8-b273-47a6-ac93-aa6825350b6b.png">
+<img width="343" alt="截屏2021-11-05 12 42 08" src="https://user-images.githubusercontent.com/90884944/140459270-ddeed384-ae1d-476c-b1ab-77729b319bd1.png">
+
+
+
 
 
 
