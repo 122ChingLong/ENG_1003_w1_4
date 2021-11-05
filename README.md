@@ -7,8 +7,6 @@
   </p>
 </p>
 
-*Project Objective: To provide students with opportunities to develop creativity, problem-solving skills and team-work abilities through a group project. During this project, students will get not only the valuable practical experience to use computer programming language to design and develop a path planning algorithm for an aircraft operation from scratch but also practical skills of using online collaborating programming platform to work with group members remotely.*
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -39,6 +37,8 @@
 
 <!-- About Path Planning -->
 ## 01|About Path Planning
+
+*Introduction: A* (pronounced "A-star") is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency. Peter Hart, Nils Nilsson and Bertram Raphael of Stanford Research Institute (now SRI International) first published the algorithm in 1968. It can be seen as an extension of Dijkstra's algorithm. A* achieves better performance by using heuristics to guide its search.
 
 
 <!-- Theory of Path Planning Algorithm -->
