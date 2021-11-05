@@ -50,6 +50,9 @@ navigation aid is available
 • For ATC near airports, collaborative path planning is required to make 
 the best use of the crowded airspace
 <img width="724" alt="截屏2021-11-05 12 58 35" src="https://user-images.githubusercontent.com/90884944/140460592-c1d3e592-5816-4561-a492-47d51f44c96e.png">
+• •Commercial pilot follow the path that plan based on different cost index 
+designed by airlines.
+<img width="811" alt="截屏2021-11-06 00 09 39" src="https://user-images.githubusercontent.com/90884944/140542278-bfa3454e-8683-4843-ad05-f9e6f6fbb08a.png">
 
 
 
