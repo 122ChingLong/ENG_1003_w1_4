@@ -44,6 +44,11 @@ is computational problem to find a sequence of valid configurations
 that moves the object from the source to destination. The term is 
 used in aviation, robotics and computer games.
 
+• Private pilots do the path plan before the flight to make sure the 
+navigation aid is available
+![This is an image]
+
+
 
 <!-- Theory of Path Planning Algorithm -->
 ## 02|Theory of Path Planning Algorithm
