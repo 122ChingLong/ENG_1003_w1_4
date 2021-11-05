@@ -4,6 +4,8 @@
 
 
 
+*Project Objectives:  During this project, students will get not only the valuable practical experience to use computer programming language to design and develop a path planning algorithm for an aircraft operation from scratch but also practical skills of using online collaborating programming platform to work with group members remotely.*
+
   </p>
 </p>
 
