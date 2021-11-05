@@ -1,14 +1,9 @@
 <p align="center">
 
-  <h3 align="center">PolyU ENG1003 AAE Freshman Project</h3>
+  <h3 align="center">PolyU ENG1003 AAE Freshman Project Group4</h3>
 
-  <p align="center">
-    <br />
-    <a href="LT HSU ENG1003 Teaching Plan 2021-22 S1.pdf"><strong>Teaching Plan</strong></a>
-    <br />
-    <br />
-    <a href="Freshman Project Assessment Criteria.pdf"><strong>Assessment Criteria</strong></a>
-    <br />  
+
+
   </p>
 </p>
 
@@ -19,69 +14,94 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#lecture-materials">Lecture Materials</a>
+      <a href="#About Path Planning">About Path Planning</a>
     </li>
     <li>
-      <a href="#contact">Contact</a>
+      <a href="#Theory of Path Planning Algorithm">Theory of Path Planning Algorithm</a>
     </li>
     <li>
-      <a href="#student-tasks">Student Tasks</a>
+      <a href="#Engineering Tools">Engineering Tools</a>
     </li>
     <li>
-      <a href="#acknowledgements">Acknowledgements</a>
-    </li>    
+      <a href="#Project Goals">Project Goals</a>
+    </li>
+    <li>
+      <a href="#Assignments">Assignments</a>
+    </li>
+    <li>
+      <a href="#Relective Essays">Reflective Essays</a>
+    </li>
+
   </ol>
 </details>
 
 
 
-<!-- Lecture Materials -->
-## Lecture Materials
-<a href="Lecture%20Notes/"><strong>Lecture Notes</strong></a>
-
-<a href="Lecture%20Videos/"><strong>Lecture Videos</strong></a>
-
-<a href="Sample%20Codes/"><strong>Sample Codes</strong></a>
-
-<!-- Student Tasks -->
-## Student Tasks
-<a href="ENG1003 Week 3 Tutorial.pdf"><strong>Tutorial Task</strong></a> - <a href="ENG1003 Week 3 Tutorial Walkthrough.pdf"><strong>Step-by-Step Instruction</strong></a>
-
-<a href="Lecture Notes/(Key slide) Week 6 Design goals (Compulsory).pdf"><strong>Compulsory Tasks</strong></a>  -  <strong>[Tutorial link](https://youtu.be/PRKLhcG2kB0)</strong>
-
-<a href="Lecture Notes/(Key slide) Week 6 Design goals (Compulsory).pdf"><strong>Additional Tasks</strong></a>
-
-<a href="Lecture Notes/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>  -  **<a href="Lecture Notes/Week 6 Creating a README in GitHub.pdf"><strong>Readme.me Introduction</strong></a>**
-
-<a href="Peer review_ENG1003.pdf"><strong>Peer Assessment Form</strong></a> - <strong>[MS Word File](https://github.com/qmohsu/PolyU_ENG1003_AAE_FP/blob/main/Peer%20review_ENG1003.docx)</strong>
-
-<a href="https://github.com/qmohsu/PolyU_ENG1003_AAE_FP/blob/main/Lecture%20Notes/(Presentation)%20Presentation%20Requirements.pdf"><strong>Presentation Requirements</strong></a>
-
-<!-- CONTACT -->
-## Contact
-**General Inquiry**
-
-Dr Li-Ta Hsu -  lt.hsu@polyu.edu.hk - https://github.com/qmohsu
-
-Dr Weisong Wen -  welson.wen@polyu.edu.hk - https://github.com/weisongwen
+<!-- About Path Planning -->
+## 01|About Path Planning
 
 
-**Assistance on Your Project**
+<!-- Theory of Path Planning Algorithm -->
+## 02|Theory of Path Planning Algorithm
 
-*Group 1-3*
 
-Miss Hiu Yi (Queenie) HO - hiu-yi.ho@connect.polyu.hk - https://github.com/queenie-ho
+<!-- Programming Tools -->
+## 03|Programming Tools
 
-*Group 4-6*
 
-Miss Yan Tung (Nikkie) LEUNG - yan-tung.leung@connect.polyu.hk - https://github.com/tungtungyan
+<!-- Project Goals -->
+## 04|Project Goals
 
-*Group 7-10*
 
-Mr Man Hin (Melvin) CHENG - manhin.cheng@connect.polyu.hk - https://github.com/Melvincheng0830
+<!-- Assignments -->
+## 05|Assignments
+**Task1:**
 
-## Acknowledgements
-We use [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for readme organization and [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) for demo A star path planning.
+
+**a.Methodology**
+
+**b.Results**
+
+**c.Discussion**
+
+
+
+**Task2:**
+
+
+**a.Methodology**
+
+**b.Results**
+
+**c.Discussion**
+
+
+
+**Task3:**
+
+
+**a.Methodology**
+
+**b.Results**
+
+**c.Discussion**
+
+
+
+<!-- Reflective Essays -->
+## 06|Reflective Essays
+
+
+**AAE Chan Ho Man (21079126D)**
+
+
+**AAE Chan Ching Long (21110937D)**
+
+
+**AAE Yang Zi Xi (21107424D)**
+
+
+**AAE Li Zhehang(21106296D)**
 
 
 
