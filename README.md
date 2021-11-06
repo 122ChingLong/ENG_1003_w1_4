@@ -71,7 +71,17 @@ designed by airlines.
 
 <!-- Project Goals -->
 ## 04|Project Goals
+• to select the best aircraft models with an 
+optimized route that minimized the cost of the aircraft operation 
+under given scenario.
 
+• Design the cost of the aircraft operation
+
+• Design an aircraft model (virtually) with different cost coefficients 
+to fly safe and cheapest. 
+
+• Design the path planning algorithm considering 3D, 2D + time, 
+scenarios.
 
 <!-- Assignments -->
 ## 05|Assignments
