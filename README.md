@@ -106,6 +106,15 @@ scenarios.
 **a.Methodology**
 
 **b.Results**
+The result of minimum cost of different aircraft model:
+
+![图像2021-11-6 13 20](https://user-images.githubusercontent.com/90884944/140599044-d92214a0-5c5e-41d2-8d53-3794dbc4d5cd.jpg)
+
+The path plan is as shown:
+
+![IMG_2209](https://user-images.githubusercontent.com/90884944/140599101-74787ce4-ea5a-4c65-83e4-3dd9ee86c4f1.GIF)
+
+
 
 **c.Discussion**
 
