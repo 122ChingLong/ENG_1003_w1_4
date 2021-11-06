@@ -87,6 +87,7 @@ designed by airlines.
 
 
 **Task2:**
+<pre><strong>2.1 | 4 constraints with 2 variables </strong><br></pre>
 
 
 **a.Methodology**
