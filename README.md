@@ -62,62 +62,34 @@ designed by airlines.
 
 <!-- Theory of Path Planning Algorithm -->
 ## 02|Theory of Path Planning Algorithm
- 
+
  
 
 <!-- Programming Tools -->
 ## 03|Programming Tools
 
-• Python
-
-<img width="614" alt="截屏2021-11-06 13 07 08" src="https://user-images.githubusercontent.com/90884944/140598718-cef720f6-68ae-4bc0-b3f5-3a0ebd40f8b7.png">
-
-
-• Github
-
-![图像2021-11-6 13 08](https://user-images.githubusercontent.com/90884944/140598732-9d976d50-d9e2-4964-b5a0-dab76305cc47.jpg)
-
-
-• Visual Studio Code
-
-![图像2021-11-6 13 09](https://user-images.githubusercontent.com/90884944/140598827-cde51443-294a-4d54-80dc-ba99ae6a5c42.jpg)
-
-
 
 <!-- Project Goals -->
 ## 04|Project Goals
-• to select the best aircraft models with an 
-optimized route that minimized the cost of the aircraft operation 
-under given scenario.
 
-• Design the cost of the aircraft operation
-
-• Design an aircraft model (virtually) with different cost coefficients 
-to fly safe and cheapest. 
-
-• Design the path planning algorithm considering 3D, 2D + time, 
-scenarios.
 
 <!-- Assignments -->
 ## 05|Assignments
 **Task1:**
-
+In this task, it is needed to find the PolyU aircraft models that achieve the minimum cost for the challenge assigned to your group.
 
 **a.Methodology**
-
+  First of all,we obtained the source code from the lecturer.After receiving te code, we follow the image of the task 1 to change the bourdaries of the map.Also, we have changed the time-consuming area and the fuel-consuming area by inputing the cordination and we input the formulae into the code which can let the code to help us to calculate the minimun cost.
+  Then, we only need to input the data of different aircraft models and it will run the program.At the same time, it will help us to calculate the minimun cost by using the two given formulae
 **b.Results**
-The result of minimum cost of different aircraft model:
+The results of the minimun cost of different aircraft models:
 
-![图像2021-11-6 13 20](https://user-images.githubusercontent.com/90884944/140599044-d92214a0-5c5e-41d2-8d53-3794dbc4d5cd.jpg)
 
-The path plan is as shown:
-
-![IMG_2209](https://user-images.githubusercontent.com/90884944/140599101-74787ce4-ea5a-4c65-83e4-3dd9ee86c4f1.GIF)
-
+The path plan is as shown below:
 
 
 **c.Discussion**
-
+The result above shows that the aircrft model of PolyU-A380 has the lowest cost in our path plan.After studying the formulae and the result,we have found that if the trip fuel or the time related cost per minute of flight increase,the total cost also increase.The trip fuel or the time related cost per minute of flight are positive proportional to the total cost.
 
 
 **Task2:**
@@ -157,7 +129,6 @@ The path plan is as shown:
 
 
 **AAE Li Zhehang (21106296D)**
-
 In this ENG course, I gained a lot. First of all, I learned about the basic application of Github and Python, the practical application of digital technology in the field of aviation engineering, and understood the importance of cross-field cooperation in the digital era. Detailed said, python is an easy to learn, simple programming language, grammar is very suitable for non-professional, learn from the programming and application to his specialty, so as to realize interdisciplinary cooperation and making is a very convenient team site, share and edit code make team work more simple and effective, It saves a lot of manpower and material costs. Combining the two, it can help the informatization development in the field of aviation engineering. Secondly, ENG is a team cooperation course. In the last two months, THIS course made me deeply realize the importance of team cooperation. The biggest advantage of team cooperation is that we can divide the work and cooperate, so as to give full play to the advantages of everyone, thus improving the efficiency and quality of the task.
 
 
