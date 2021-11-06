@@ -62,7 +62,7 @@ designed by airlines.
 
 <!-- Theory of Path Planning Algorithm -->
 ## 02|Theory of Path Planning Algorithm
- 
+
  
 
 <!-- Programming Tools -->
@@ -71,29 +71,25 @@ designed by airlines.
 
 <!-- Project Goals -->
 ## 04|Project Goals
-• to select the best aircraft models with an 
-optimized route that minimized the cost of the aircraft operation 
-under given scenario.
 
-• Design the cost of the aircraft operation
-
-• Design an aircraft model (virtually) with different cost coefficients 
-to fly safe and cheapest. 
-
-• Design the path planning algorithm considering 3D, 2D + time, 
-scenarios.
 
 <!-- Assignments -->
 ## 05|Assignments
 **Task1:**
-
+In this task, it is needed to find the PolyU aircraft models that achieve the minimum cost for the challenge assigned to your group.
 
 **a.Methodology**
-
+  First of all,we obtained the source code from the lecturer.After receiving te code, we follow the image of the task 1 to change the bourdaries of the map.Also, we have changed the time-consuming area and the fuel-consuming area by inputing the cordination and we input the formulae into the code which can let the code to help us to calculate the minimun cost.
+  Then, we only need to input the data of different aircraft models and it will run the program.At the same time, it will help us to calculate the minimun cost by using the two given formulae
 **b.Results**
+The results of the minimun cost of different aircraft models:
+
+
+The path plan is as shown below:
+
 
 **c.Discussion**
-
+The result above shows that the aircrft model of PolyU-A380 has the lowest cost in our path plan.
 
 
 **Task2:**
