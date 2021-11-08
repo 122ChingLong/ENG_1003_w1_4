@@ -112,6 +112,23 @@ In this task, it is needed to find the PolyU aircraft models that achieve the mi
   
   First of all,we obtained the source code from the lecturer.After receiving te code, we follow the image of the task 1 to change the bourdaries of the map.Also, we have changed the time-consuming area and the fuel-consuming area by inputing the cordination and we input the formulae into the code which can let the code to help us to calculate the minimun cost.
   Then, we only need to input the data of different aircraft models and it will run the program.At the same time, it will help us to calculate the minimun cost by using the two given formulae.
+
+Find the Polyu Aircraft Model that achieve minimum cost for the challenge.
+
+
+Aircraft	CF	∆F	CT	∆T	CC	∆Fa	∆Ta
+Robust 200-1	?	5	?	5	10	5	5
+
+Constraints
+          CT   - CF   ≤ 30
+         -0.5CT-CF   ≤-30
+          2CT  -CF   ≥ 20
+        -4CT  -CF ≥ -220
+Since there is two valuables. We let CT and CF as x and y respectively. Then we insert the formulas into the graph calculator to find the points.
+![image](https://user-images.githubusercontent.com/90884889/140675396-5d24ddfc-58a8-44c8-b008-5f78c3580046.gif)
+
+
+Below is the image for the graph
   
 **b.Results** 
 
