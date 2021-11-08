@@ -185,6 +185,8 @@ No matter what the answer is. This task is much closer to the reality. It is muc
 
 Comparing to Task 1 of A380, it is reduced from 2373.092 to 1922.014. It is 19% cheaper.
 
+
+
 **c.Discussion**
 
 From the results, we can see that why airlines tries to find the lowest cost route. As adding one factor, the cost reduces almost 20%. However, in real life situation, there is so much more factors to be considers. For instance, weather, air traffic and altitude. Just to name a few. Finding the lowest or the most efficient cost setup for an airplane is much complicated. At least, it is not simple as task 3. Works are much work to be done in real life. 
