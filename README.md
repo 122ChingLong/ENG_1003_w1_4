@@ -134,14 +134,41 @@ The result above shows that the aircrft model of PolyU-A380 has the lowest cost 
 
 
 **Task2:**
-<pre><strong>2.1 | 4 constraints with 2 variables </strong><br></pre>
+
+**Task2.1**
 
 
 **a.Methodology**
 
-**b.Results**
+<img width="381" alt="截屏2021-11-09 00 46 44" src="https://user-images.githubusercontent.com/90884944/140783651-65c96f9a-bd7c-4622-a752-2e00a3bf1812.png">
+
+
+
+
+<img width="381" alt="截屏2021-11-09 00 51 43" src="https://user-images.githubusercontent.com/90884944/140784093-c9563d2a-2cfc-4c96-aad4-2cc65ba9872e.png">
+
 
 **c.Discussion**
+
+We find that to minimize the cost of paths for Cf and CT would have to be 20 each. This shows that if we changed two variables, the difference of cost can be significant. However, in reality, it is much more complicated. There will not be only two unknowns. There will be more formulas that affect each other. There will not be nice integer for the most efficient setup.
+
+
+**Task2.2**
+
+**a.Methodology**
+
+<img width="391" alt="截屏2021-11-09 00 55 25" src="https://user-images.githubusercontent.com/90884944/140785032-b221394f-0c74-417f-90c2-2dd5ea0d9b9f.png">
+
+By the Excel’s solver, we get:
+
+<img width="356" alt="截屏2021-11-09 00 59 05" src="https://user-images.githubusercontent.com/90884944/140785241-02a5cb3e-d674-4300-af1c-0dc90103ea8a.png">
+
+
+**c.Discussion**
+
+Even though we use the Excel find the lowest possible setup we can find, we are not sure about our answer. Since this setup or those formulas are for all 10 groups. In other words, we did not customize our setup for our route. Every route has its own setup, and it is not the same to others. We expect there will be more efficient setup than we have now. However, we tried and cannot be found. We are still struggling. We did not where is the problem. Therefore, we still stick our answer.
+
+No matter what the answer is. This task is much closer to the reality. It is much complicated and vague. The actual answer is harder to be find. Also, we can see the importance of calculator and programming. As we use manual calculation, we would waste lots of time and may found incorrect answer. Computer can finish the work instinctly.
 
 
 
