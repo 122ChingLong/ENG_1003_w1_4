@@ -204,6 +204,7 @@ From the results, we can see that why airlines tries to find the lowest cost rou
 
 
 **AAE Li Zhehang (21106296D)**
+
 In this ENG course, I gained a lot. First of all, I learned about the basic application of Github and Python, the practical application of digital technology in the field of aviation engineering, and understood the importance of cross-field cooperation in the digital era. Detailed said, python is an easy to learn, simple programming language, grammar is very suitable for non-professional, learn from the programming and application to his specialty, so as to realize interdisciplinary cooperation and making is a very convenient team site, share and edit code make team work more simple and effective, It saves a lot of manpower and material costs. Combining the two, it can help the informatization development in the field of aviation engineering. Secondly, ENG is a team cooperation course. In the last two months, THIS course made me deeply realize the importance of team cooperation. The biggest advantage of team cooperation is that we can divide the work and cooperate, so as to give full play to the advantages of everyone, thus improving the efficiency and quality of the task.
 
 
