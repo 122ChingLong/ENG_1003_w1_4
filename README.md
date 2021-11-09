@@ -201,6 +201,14 @@ From the results, we can see that why airlines tries to find the lowest cost rou
 
 **AAE Chan Ching Long (21110937D)**
 
+When I acknowledge the content of the tutorial, I thought I was going to have tough time. Since I did not know anything about programming. Also, all my group mates did not learn programming as well. I cannot imagine how to face this project. Luckily, the difficulty of this course is not that hard. It is like introduction course. I think I can still catch up. I even learn from online and ask for assistance, our progress is still far behind comparing to other groups. We still have to overcome this challenge because all of the advanced airplanes involve of using programming. I have to learn this for my future career.
+
+The first thing that I know is the simple programming/python. Although we did not dig deep, like, how code works, what is algorithm, what is path planning and more. I start to know what programming is. I can type some simple codes and functions although I cannot type complicated and massive functions. I also learn how can I pull, commit and push in Github. I definitely have some great practical experience. 
+
+Another thing that I learn how can I solve questions by using Excel. In task 2.2, there is a task that contain 4 constraints with 6 unknown variables. There is like thousands of possible setups and manual calculation will be very slow and inaccurate. Then, I learn how to use Excel’s solver from the internet. I just insert all of formulas and constraints. It quickly solves this task. It just takes me like 10 minutes to find the answer. I think I learn a great skill for this kind of problems. 
+
+The last thing that I learn is how to communicate with new group mate. Since this is not secondary, I did not know my group mates. Also, two of my group mates comes from mainland. There definitely has language barrier. I remember that there is one lessons that makes me so confuse. Since lessons has to be English, so I have to switch from 3 language. Cantonese, Chinese, and English. Sometimes I lost track and speak the wrong language to group mates. Comparing to my previous projects, communication is quite difficult. Luckily, everyone is willing to speak and not shy at all. Everyone will encourage to each other. Although there is some rough moment at the start, it is quite smooth in the end.
+
 
 **AAE Yang Zi Xi (21107424D)**
 
