@@ -227,7 +227,7 @@ In this ENG course, I gained a lot. First of all, I learned about the basic appl
 
 **AAE Kwok Yan Yiu (21084939D)**
 
-
+To start with, I would like to say that this project is quite challenging for me. As I didn't study python before I enter the university, it is difficult for me to type the code with my own knowledge. Therefore, I will say that the thing I learn the most is about python. When I got difficulties about how to type the code, I would ask my groupmates foe help. If my groupmates got no ideas, we would ask the professor. Throughout this project, I started from zero and now, I can finish the project with my groupmates. That is really satisfy. Second, another problem I think is quite common in most of the groups is about the communication. We cooperate with students who came from other countries, such as Korea, France, Pakistan, so on and so forth. Luckily, we only got two groupmates from the Mainland and three are from Hong Kong. It was not a big difficulty for us to communicate. As this project cannot be finished by one person, we need to divide the part of what we need to do. This enhance our cooperate skills. To sum up, this project gave us a chance to learn how to collaborate with the people we have never met before. This may increase our competitiveness later on in the society.
 
 
 
