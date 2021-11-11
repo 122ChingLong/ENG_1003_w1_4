@@ -200,6 +200,13 @@ From the results, we can see that why airlines tries to find the lowest cost rou
 
 **AAE Chan Ho Man (21079126D)**
 
+Before approaching this project,i did not know any about programming.I think that programming is very difficult to learn or understand.However,the task in this project are not difficult and there is assistance who can answer our quesions and help us to solve the difficulties.After the collaboration with the group mates, we can finish all the task .
+
+After finishing the project, i can learn more about programming.We can set a simple code and the code can help us to solve a lot of problems and help us to calculate different difficult formula.Also,i can learn that we can use VScode to crate some code and push it to the github.After pushing the code to github, the group mate can also check the code and change the code.It can help us to finish the task quickly.Because we do not need to change and create the code by face-to-face and we can do it by online or github.
+
+Apart form programming,i also learn more about path planning.At the begining,i think path planing is that we only make a route for the aircraft but it is not correct.There are lots of things to be considered.For example,we need to consider the cost of fuel and how many fuel will be consumed.We need to fine a route that less fuel is consumed and the aircraft can use less time to arrived the destination.
+
+Last but not least,i can meet new friends in this project.This project needs us to collaborate with each other and finish the task.During the collaboration,we can know moreabout the group mates and enhance the relationship between each others.This is the biggest rewards after finishing the project.
 
 **AAE Chan Ching Long (21110937D)**
 
